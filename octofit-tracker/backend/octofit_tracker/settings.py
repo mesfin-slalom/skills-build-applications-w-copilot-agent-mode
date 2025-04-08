@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-4ol!4$yyk9&&^c8tcue_x07305+b55$a9ete&7zm_9%pissg76
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "octofit-8000.app.github.dev"]
 
 
 # Application definition
